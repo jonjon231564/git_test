@@ -8,4 +8,5 @@ intmain(void)
             i++;
             printf("%i", i)
         } while(i != 30)
+    
     }
